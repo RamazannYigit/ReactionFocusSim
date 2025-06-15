@@ -28,6 +28,20 @@ Bu uygulama:
 
 ---
 
+## 🚀 Projeyi Çalıştırma
+
+1. **Terminal (CMD) açın.**  
+2. Proje çalıştırma dosyanızın bulunduğu dizine gidin. Örneğin:
+
+   ```bash
+   cd C:\Users\asus\Documents\ReactionFocusSim\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+   
+3. Uygulamayı başlatmak için şu komutu yazın:
+
+   ReactionFocusSim.exe
+   
+---
+
 ## 📸 Ekran Görüntüleri
 
 > Terminalden örnek çıktı:
