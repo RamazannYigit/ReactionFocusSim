@@ -26,6 +26,20 @@ This application serves as:
 
 ---
 
+## 🚀 Running the Project
+
+1. **Open your Terminal (CMD).**  
+2. Navigate to the folder containing the executable, for example:
+
+   ```bash
+   cd C:\Users\asus\Documents\ReactionFocusSim\build\Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+   
+3. Run the application by typing:
+
+   ReactionFocusSim.exe
+
+---
+
 ## 📸 Screenshots
 
 > Sample output (in terminal):
